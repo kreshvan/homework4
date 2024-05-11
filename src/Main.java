@@ -23,6 +23,13 @@ public class Main {
         char w = 27897;
         byte v = 67;
         //задание 3
+        int teacher1 = 23;
+        int teacher2 = 27;
+        int teacher3 = 30;
+        int summaT = teacher1 + teacher2 + teacher3;
+        //сумма листов 480
+        int student1 = 480/summaT;
+        System.out.println("На каждого ученика рассчитано" + " "+ student1+ " "+  "листов бумаги");
 
 
 
