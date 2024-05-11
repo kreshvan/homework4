@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
 //задание 1
-        int A =500;
+        int A =5000;
         System.out.println("Значение переменной A с типом int равно"+" "+A);
         byte B = 100;
         System.out.println("Значение переменной B с типом byte равно"+" "+B);
